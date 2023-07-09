@@ -9,6 +9,6 @@ Spin finder requires the installation of the following libraries:
 
 The source code is included in this repository and pypi folks can install it by typing:
 
-`pip install spin-finder`
+`pip install SpinFinder`
 
 The code requires only one user input, your molecule's xyz file path.
